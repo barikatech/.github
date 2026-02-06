@@ -1,67 +1,62 @@
-# **Barika Tech**
-
-Reliable tech solutions for homes, small businesses, and growing teams across **Kuantan, Pahang, and Malaysia**.  
-We focus on practical, efficient, and modern IT support — without the corporate nonsense.
+# **Barika Tech**  
+![Static Badge](https://img.shields.io/badge/Status-Active-brightgreen)
+![Static Badge](https://img.shields.io/badge/Based_in-Kuantan%2C_Pahang-blue)
+![Static Badge](https://img.shields.io/badge/Focus-IT_Support_%7C_Repair_%7C_Networking-orange)
+![Static Badge](https://img.shields.io/badge/Approach-Open_Source-lightgrey)
 
 ---
 
-## **What We Do**
+## **🚀 About Barika Tech**
+
+Barika Tech delivers practical, reliable, and modern technology solutions for individuals and small businesses across **Kuantan, Pahang, and Malaysia**.  
+Our work emphasizes clarity, efficiency, and long‑term stability — the fundamentals of a trustworthy tech partner.
+
+---
+
+## **🛠️ Core Capabilities**
 
 - **Device Repair & Diagnostics**  
-  Laptops, desktops, networking gear, and general hardware troubleshooting.
+  Hardware troubleshooting for laptops, desktops, and networking equipment.
 
 - **Software & System Support**  
-  OS issues, configuration, optimization, malware removal, and performance tuning.
+  OS configuration, optimization, malware removal, and performance tuning.
 
 - **Networking & Infrastructure**  
-  Home and SME network setup, router configuration, Wi‑Fi optimization, and basic cybersecurity hardening.
+  Router setup, Wi‑Fi optimization, SME network deployment, and basic cybersecurity hardening.
 
-- **Automation & Tools**  
-  Scripts, utilities, and internal tools to streamline workflows and reduce repetitive tasks.
+- **Automation & Internal Tools**  
+  Scripts and utilities designed to streamline workflows and reduce repetitive tasks.
 
-- **Small Business IT Solutions**  
-  Lightweight, scalable setups for SMEs that want reliability without enterprise complexity.
-
----
-
-## **Our Philosophy**
-
-Technology should **work for you**, not slow you down.  
-Barika Tech builds solutions that are:
-
-- **Simple** — no over‑engineering  
-- **Reliable** — built to last  
-- **Transparent** — clear communication, no hidden nonsense  
-- **Scalable** — ready for future growth  
-
-We combine hands‑on technical experience with a practical, problem‑solving mindset.
+- **SME IT Solutions**  
+  Lightweight, scalable setups tailored for small businesses that need reliability without enterprise overhead.
 
 ---
 
-## **Repositories You’ll Find Here**
+## **📂 Repository Overview**
 
-- **Tools & Utilities**  
-  Scripts, automation helpers, and diagnostic tools.
+| Category | Description | Badge |
+|---------|-------------|-------|
+| **Tools & Utilities** | Automation helpers, diagnostics, scripts | ![Static Badge](https://img.shields.io/badge/Repo-Tools-blue) |
+| **Configs & Templates** | SOPs, configs, reusable setups | ![Static Badge](https://img.shields.io/badge/Repo-Configs-yellow) |
+| **Documentation** | Guides, FAQs, troubleshooting docs | ![Static Badge](https://img.shields.io/badge/Repo-Docs-green)|
+| **Open‑Source Projects** | Community tools & experiments | ![Static Badge](https://img.shields.io/badge/Repo-Open--Source-lightgrey) |
 
-- **Configuration Templates**  
-  Network configs, SOPs, and reusable setups.
-
-- **Documentation & Guides**  
-  Public troubleshooting guides, FAQs, and best practices.
-
-- **Open‑Source Projects**  
-  Small tools and experiments that we share with the community.
-
-More repos will appear as Barika Tech grows.
+More repositories will be added as Barika Tech expands its internal and public tooling.
 
 ---
 
-## **Our Commitment**
+## **💡 Operating Principles**
 
-- Clear communication  
-- Honest diagnostics  
-- Fair pricing  
-- Respect for your time and data  
-- Continuous improvement of our tools and processes  
+- **Simplicity** — Solutions that avoid unnecessary complexity  
+- **Reliability** — Built with stability and longevity in mind  
+- **Transparency** — Clear communication and honest diagnostics  
+- **Scalability** — Systems designed to grow with user needs  
+
+These principles guide every project, tool, and service we deliver.
 
 ---
+
+## **📈 Vision**
+
+To establish Barika Tech as a trusted, modern technical partner — delivering solutions that are efficient, maintainable, and grounded in real‑world practicality.
+
